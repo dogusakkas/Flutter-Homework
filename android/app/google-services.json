@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223428640858",
+    "project_id": "selcukuni-a1076",
+    "storage_bucket": "selcukuni-a1076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223428640858:android:73d64dcfb2cd1133199863",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223428640858-66j09eni8gkaja8filov3euqju0h77om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp9B1e3EpKzT1hXna8iuT28U3uJZnguWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223428640858-66j09eni8gkaja8filov3euqju0h77om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

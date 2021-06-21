@@ -1,6 +1,6 @@
-# flutter_app
+# flutter_plugin_example
 
-A new Flutter application.
+Demonstrates how to use the flutter_plugin plugin.
 
 ## Getting Started
 
